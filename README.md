@@ -1,4 +1,4 @@
-# my-SLAM
+# my-rudimentory-SLAM
 Author:
 Nathan Yan
 
